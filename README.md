@@ -26,3 +26,9 @@
 <h4 id="Malachi"><a href="https://ilikepuppies1.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Finn"><a href="https://ilikepuppies1.github.io/Finn/">Finn</a><a class="anchorjs-link " href="#Finn" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Rubric"><a href="https://ilikepuppies1.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#Rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+ </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+</body>
