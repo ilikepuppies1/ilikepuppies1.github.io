@@ -23,3 +23,4 @@
 <h4 id="Lily"><a href="https://ilikepuppies1.github.io/Lily/">Lily</a><a class="anchorjs-link " href="#Lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Josh"><a href="https://ilikepuppies1.github.io/Josh/">Josh</a><a class="anchorjs-link " href="#Josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Sam"><a href="https://ilikepuppies1.github.io/Sam/">Sam</a><a class="anchorjs-link " href="#Sam" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Malachi"><a href="https://ilikepuppies1.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
