@@ -20,3 +20,4 @@
 <h4 id="these-are-some-of-my-many-puppies">These are some of my many puppys<a class="anchorjs-link " href="#these-are-some-of-my-many-puppies" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="<Max"><a href="https://ilikepuppies1.github.io/Max/">Max</a><a class="anchorjs-link " href="#Max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Edwiggle"><a href="https://ilikepuppies1.github.io/Edwiggle/">Edwiggle</a><a class="anchorjs-link " href="#Edwiggle" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Lily"><a href="https://ilikepuppies1.github.io/Lily/">Lily</a><a class="anchorjs-link " href="#Lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
