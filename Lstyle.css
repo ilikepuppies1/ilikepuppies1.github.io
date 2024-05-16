@@ -1,0 +1,84 @@
+p {
+  text-align: center; 
+  font-size: 30px;
+  color: Navy;
+}
+
+h2 {
+  text-align:center; 
+  font-size: 60px;
+  color: Navy;
+}
+
+body {
+  font-family: Garamond, serif;
+}
+
+body {
+    background: White;
+
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
+}
+
+
+img {
+  border: 5px solid #03045e;
+}
+  
+.sidenav {
+  height: 100%; 
+  width: 0; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: #ebf2fa; 
+  overflow-x: hidden; 
+  padding-top: 60px; 
+  transition: 0.5s; 
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #064789;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #064789;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
